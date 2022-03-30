@@ -1,1 +1,3 @@
-Zmiana w pliku - jeszcze jeafasfana!
+Dodanie nowej, eksperymentalnej funkcjonalności.
+
+yo
